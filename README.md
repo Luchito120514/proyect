@@ -1,1 +1,2 @@
-# proyect
+# BRUTE FORCE ATTACK
+Antes de poder usar el codigo de manera efectiva se tiene que usar el comando python3 -m venv venv/ Luego para activar la misma api se usan los comandos source venv/bin/activate y al usar este comando usar el fastapi dev main.py/ Para poder hacer que funcione este codigo se tiene que primeramente usar la terminal de UBUNTU(wsl) / Acto siguiente, se tiene que dentro del bash agregar el rango minimo de caracteres y el maximo / Correr el comando ./brute_force.sh http://127.0.0.1:8000 NOMBRE DE USUARIO / Esperar a que el codigo encuentre la clave
